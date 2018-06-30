@@ -1,4 +1,4 @@
-package com.poorna1.demoweb;
+package com.spring.demoweb;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
